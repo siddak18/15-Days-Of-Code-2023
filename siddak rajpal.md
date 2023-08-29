@@ -1,5 +1,6 @@
 # Siddak rajpal - Vision 15 Days of Code Log 
-Day 1
+
+# Day 1
 [August] [29], 2023
 
 // problem1
