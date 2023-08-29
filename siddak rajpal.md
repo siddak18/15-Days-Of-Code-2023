@@ -3,7 +3,7 @@
 ## Day 1  
 08 29, 2023
 
-* https://codeforces.com/problemset/problem/785/A -https://codeforces.com/contest/785/submission/220948488
+* [question link https://codeforces.com/problemset/problem/785/A] -[code link https://codeforces.com/contest/785/submission/220948488]
 
 * https://codeforces.com/contest/144/problem/A - https://codeforces.com/contest/144/submission/220947997 
 
