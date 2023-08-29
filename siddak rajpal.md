@@ -1,6 +1,6 @@
 # Siddak rajpal - Vision 15 Days of Code Log 
 
-# Day 1
+** Day 1 **
 08 29, 2023
 
 * https://codeforces.com/problemset/problem/785/A -https://codeforces.com/contest/785/submission/220948488
