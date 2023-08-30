@@ -12,4 +12,4 @@
 ### Day2
 08 30 2023
 * tried to slove https://codeforces.com/contest/1863/problem/A - code-https://codeforces.com/contest/1863/submission/221108342
-* tried to slove https://codeforces.com/contest/1863/problem/B - codehttps://codeforces.com/contest/1863/submission/221147994
+* tried to slove https://codeforces.com/contest/1863/problem/B - code-https://codeforces.com/contest/1863/submission/221147994
