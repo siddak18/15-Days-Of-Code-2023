@@ -13,3 +13,8 @@
 08 30 2023
 * tried to slove https://codeforces.com/contest/1863/problem/A - code-https://codeforces.com/contest/1863/submission/221108342
 * tried to slove https://codeforces.com/contest/1863/problem/B - code-https://codeforces.com/contest/1863/submission/221147994
+
+### Day3
+08 31 2023
+* [Question link https://codeforces.com/contest/1861/problem/A] -[Code link https://codeforces.com/contest/1861/submission/221351810]
+* [Question link https://codeforces.com/contest/1861/problem/B] -[Code link https://codeforces.com/contest/1861/submission/221314475]
