@@ -18,3 +18,10 @@
 08 31 2023
 * [Question link https://codeforces.com/contest/1861/problem/A] -[Code link https://codeforces.com/contest/1861/submission/221351810]
 * [Question link https://codeforces.com/contest/1861/problem/B] -[Code link https://codeforces.com/contest/1861/submission/221314475]
+
+### Day5
+02 09 2023
+* [Question link https://codeforces.com/contest/1850/problem/A] -[Code link https://codeforces.com/contest/1850/submission/221597372]
+* [Question link https://codeforces.com/contest/1856/problem/A] -[Code link https://codeforces.com/contest/1856/submission/221598355]
+* [Question link https://codeforces.com/contest/1855/problem/A] -[Code link https://codeforces.com/contest/1855/submission/221598844]
+* Started learning c++
