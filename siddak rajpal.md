@@ -27,3 +27,8 @@
 * [Question link https://codeforces.com/contest/1856/problem/A] -[Code link https://codeforces.com/contest/1856/submission/221598355]
 * [Question link https://codeforces.com/contest/1855/problem/A] -[Code link https://codeforces.com/contest/1855/submission/221598844]
 * Started learning c++
+
+### Day6
+03 september, 2023
+* tried to slove https://codeforces.com/contest/1853/problem/A - code-https://codeforces.com/contest/1853/submission/221741311
+* learned about file system ,path, export and import modules in node.js
