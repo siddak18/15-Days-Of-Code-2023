@@ -4,9 +4,7 @@
 08 29, 2023
 
 * [Question link https://codeforces.com/problemset/problem/785/A] -[Code link https://codeforces.com/contest/785/submission/220948488]
-
 * [Question link https://codeforces.com/contest/144/problem/A] - [Code link https://codeforces.com/contest/144/submission/220947997]
-
 *  [Question link https://codeforces.com/contest/1030/problem/A] - [Code link https://codeforces.com/contest/1030/submission/220946261]
 
 ### Day2
@@ -18,6 +16,10 @@
 08 31 2023
 * [Question link https://codeforces.com/contest/1861/problem/A] -[Code link https://codeforces.com/contest/1861/submission/221351810]
 * [Question link https://codeforces.com/contest/1861/problem/B] -[Code link https://codeforces.com/contest/1861/submission/221314475]
+
+### Day4
+09 01 2023
+* explored about react.js 
 
 ### Day5
 02 09 2023
