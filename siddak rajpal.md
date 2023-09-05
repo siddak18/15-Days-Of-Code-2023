@@ -36,4 +36,11 @@
 ### Day7
 04 September, 2023
 * learned about http request,Api and npm .
+
+### Day8
+05 september, 2023
+* [Qestion link https://codeforces.com/contest/1866/problem/A]-[code link https://codeforces.com/contest/1866/submission/221982742]
+* [Question link https://codeforces.com/contest/1864/problem/A]-[code link https://codeforces.com/contest/1864/submission/221985540]
+* learned about routing in node js.
+
   
