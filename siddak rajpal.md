@@ -32,3 +32,8 @@
 03 september, 2023
 * tried to slove https://codeforces.com/contest/1853/problem/A - code-https://codeforces.com/contest/1853/submission/221741311
 * learned about file system ,path, export and import modules in node.js
+
+### Day7
+04 September, 2023
+* learned about http request,Api and npm .
+  
