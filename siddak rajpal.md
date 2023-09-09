@@ -55,3 +55,8 @@
 * [Qestion link https://codeforces.com/contest/1872/problem/B]-[code link https://codeforces.com/contest/1872/submission/222255976]
 * tried to solve https://codeforces.com/contest/1872/problem/c code- https://codeforces.com/contest/1872/submission/222276624
 
+### Day 11
+08 September, 2023
+* [Question link https://codeforces.com/contest/1772/problem/A]-[code link- https://codeforces.com/contest/1772/submission/222539938]
+* [Question link https://codeforces.com/contest/1772/problem/B]-[code link- https://codeforces.com/contest/1772/submission/222541290]
+* [Question link https://codeforces.com/contest/1772/problem/C]-[code link- https://codeforces.com/contest/1772/submission/222543301]
