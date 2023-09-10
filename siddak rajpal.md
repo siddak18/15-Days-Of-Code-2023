@@ -60,3 +60,8 @@
 * [Question link https://codeforces.com/contest/1772/problem/A]-[code link- https://codeforces.com/contest/1772/submission/222539938]
 * [Question link https://codeforces.com/contest/1772/problem/B]-[code link- https://codeforces.com/contest/1772/submission/222541290]
 * [Question link https://codeforces.com/contest/1772/problem/C]-[code link- https://codeforces.com/contest/1772/submission/222543301]
+
+### Day 12
+09 September, 2023
+* Started oops in c++.
+* learned about euclidean algorithm and Sieve of Eratosthenes.
