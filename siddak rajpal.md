@@ -65,3 +65,8 @@
 09 September, 2023
 * Started oops in c++.
 * learned about euclidean algorithm and Sieve of Eratosthenes.
+
+### Day 13
+10 September, 2023
+* tried to solve https://codeforces.com/contest/1869/problem/A code https://codeforces.com/contest/1869/submission/222766123
+* learned about Middleware and mongoose.
