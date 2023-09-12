@@ -70,3 +70,9 @@
 10 September, 2023
 * tried to solve https://codeforces.com/contest/1869/problem/A code https://codeforces.com/contest/1869/submission/222766123
 * learned about Middleware and mongoose.
+
+### Day 14
+11 September, 2023
+* [Qestion link https://codeforces.com/contest/1840/problem/A code - https://codeforces.com/contest/1840/submission/223031309]
+* [Question link https://codeforces.com/contest/1840/problem/B code - https://codeforces.com/contest/1840/submission/223031725]
+* learned about data modelling and schema in mongoose.
